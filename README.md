@@ -1,2 +1,1 @@
-# FightingDragon
-A Minecraft Modpack
+# FightingDragon 生死一线
